@@ -1,6 +1,6 @@
 
 
-### 🎟️ Ticket #003 – **"Cleaning the Mess: File Movement, Copying, and Renaming"**
+### 🎟️ Ticket #002 – **"Cleaning the Mess: File Movement, Copying, and Renaming"**
 
 #### 🧠 Scenario:
 
